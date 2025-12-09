@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syed abrar rafid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed abrar rafid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-abrar-rafid-1937b12b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed abrar rafid" height="30" width="40" /></a>
 <a href="https://fb.com/syed abrar rafid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed abrar rafid" height="30" width="40" /></a>
 <a href="https://instagram.com/abrar_rafid_jorjis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrar_rafid_jorjis" height="30" width="40" /></a>
 </p>
