@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RTOS**
 
-- 📫 How to reach me **rafidabrar111@gmail.com**
+- 📫 How to reach me **rafidabrar111@gmail.com** / **rafid20@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
